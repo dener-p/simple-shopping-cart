@@ -14,3 +14,12 @@
     transform: translateX(0);
   }
 }
+
+::root {
+  --capittalXColorOne: #4e4a99;
+  --capittalXColorTwo: #553e91;
+  --capittalXColorThree: #121329;
+  --capittalXColorFour: #6915cb;
+  --capittalXColorFive: #0a49cb;
+  --capittalXColorSix: #6d6e71;
+}
